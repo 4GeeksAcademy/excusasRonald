@@ -12,15 +12,15 @@ window.onload = () => {
 };
 
 let generateExcuse = () => {
-  let who = ["The dog", "My grandma", "His turtle", "My bird"];
-  let action = ["ate", "peed", "crushed", "broke"];
-  let what = ["my homework", "the keys", "the car"];
+  let who = ["el Cachorro", "mi sobrino", "su iguana", "mi chancla"];
+  let action = ["se comio", "quemo", "implosiono", "rompe"];
+  let what = ["mi tarea", "las llaves", "el coche"];
   let when = [
-    "before the class",
-    "right on time",
-    "when I finished",
-    "during my lunch",
-    "while I was praying"
+    "despues de rankear",
+    "que casualdiad",
+    "cuando yo termine",
+    "cuando yo estaba comiendo",
+    "mientras estaba rezando por pasar 4geeks"
   ];
 
   let whoIndex = Math.floor(Math.random() * who.length);
