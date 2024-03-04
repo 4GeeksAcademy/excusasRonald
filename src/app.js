@@ -12,14 +12,14 @@ window.onload = () => {
 };
 
 let generateExcuse = () => {
-  let who = ["el Cachorro", "mi sobrino", "su iguana", "mi chancla"];
-  let action = ["se comio", "quemo", "implosiono", "rompe"];
+  let who = ["el Cachorro", "mi sobrino", "la iguana", "Noe"];
+  let action = ["se comio", "quemo", "implosiono", "quebro"];
   let what = ["mi tarea", "las llaves", "el coche"];
   let when = [
     "despues de rankear",
     "que casualdiad",
-    "cuando yo termine",
-    "cuando yo estaba comiendo",
+    "cuando yo termine de estudiar",
+    "cuando yo estoy comiendo",
     "mientras estaba rezando por pasar 4geeks"
   ];
 
